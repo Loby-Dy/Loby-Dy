@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Вконтакте-blue?style-for-the-badge&logo=VK&logoColor=white"
     alt="VK"</>
   </a>
-  and <a href="https://t.me/+79210328952">
+  and <a href="telegram-https://t.me/+79210328952">
     <img src="https://img.shields.io/badge/Telegram-white?style-for-the-badge&logo=Telegram&logoColor=blue"
     alt="TG"</>
   </a> for quick personal communication!
@@ -15,10 +15,10 @@
 <!--
 **Loby-Dy/Loby-Dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Java,
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
