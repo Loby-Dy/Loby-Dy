@@ -4,7 +4,7 @@
 </div>
 <div id="header" align="center">
   My <a href="https://vk.com/daan_ballan">
-    <img src="https://img.shields.io/badge/Vkontakte-blue?style-for-the-badge&logo=VK&logoColor=white"
+    <img src="https://img.shields.io/badge/Vkontakte blue?style-for-the-badge&logo=VK&logoColor=white"
     alt="VK"</>
   </a>
   and <a href="https://t.me/+79210328952">Telegram</a> for quick personal communication
