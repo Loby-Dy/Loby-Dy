@@ -3,7 +3,11 @@
     <h3>Aspiring developer and IT specialist from Russia! </h3>
 </div>
 <div id="header" align="center">
-  My <a href="https://vk.com/daan_ballan">VK</a> and <a href="https://t.me/+79210328952">Telegram</a> for quick personal communication
+  My <a href="https://vk.com/daan_ballan">
+    <img src="https://img.shields.io/badge/Vkontakte-blue?style-for-the-badge&logo=VK&logoColor=white"
+    alt="VK"</>
+  </a>
+  and <a href="https://t.me/+79210328952">Telegram</a> for quick personal communication
 </div>
 <!--
 **Loby-Dy/Loby-Dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
