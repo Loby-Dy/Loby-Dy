@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there, I'm Daniil! </h1>
-    <h1>Aspiring developer and IT specialist from Russia! </h1>
+    <h2>Aspiring developer and IT specialist from Russia! </h2>
 </div>
 <div id="header" align="center">
   My <a href="Вконтакте-https://vk.com/daan_ballan">
@@ -12,11 +12,12 @@
     alt="TG"</>
   </a> for quick personal communication!
 </div>
-###About Me
+<div> 
+<h2> About me </h2> 
 <h3> - 🔭 I’m currently working on web-site and application for students. </h3>
 <h3> - 🌱 I’m currently learning Java. </h3>
 <h3> - 👯 I’m looking with collaboratewith any IT-company. </h3>
-<h3> - 🌍 I speak Russian and English. </h3>
+<h3> - 🌍 I speak Russian and English. </h3> </div>
 <!--
 **Loby-Dy/Loby-Dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
