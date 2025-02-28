@@ -12,13 +12,11 @@
     alt="TG"</>
   </a> for quick personal communication!
 </div>
-### Here are some ideas to get you started:
-
-- 🔭 Сейчас я работаю над сайтом и приложением для студентов.
-- 🌱 Сейчас я изучаю Java.
-- 👯 Ищу сотрудничество с любой IT-компанией.
-- 🌍 Я говорю на русском и английском языках.
-- 📫 Как со мной связаться: проверьте заголовок.
+### About me
+- 🔭 I’m currently working on web-site and application for students.
+- 🌱 I’m currently learning Java.
+- 👯 I’m looking with collaboratewith any IT-company.
+- 🌍 I speak Russian and English.
 <!--
 **Loby-Dy/Loby-Dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
