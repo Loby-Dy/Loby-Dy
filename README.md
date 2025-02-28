@@ -10,7 +10,7 @@
   and <a href="https://t.me/+79210328952">
     <img src="https://img.shields.io/badge/Telegram-white?style-for-the-badge&logo=Telegram&logoColor=blue"
     alt="TG"</>
-  </a> for quick personal communication
+  </a> for quick personal communication!
 </div>
 <!--
 **Loby-Dy/Loby-Dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
