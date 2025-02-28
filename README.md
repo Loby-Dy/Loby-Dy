@@ -13,10 +13,10 @@
   </a> for quick personal communication!
 </div>
 ### About me
-- 🔭 I’m currently working on web-site and application for students.
-- 🌱 I’m currently learning Java.
-- 👯 I’m looking with collaboratewith any IT-company.
-- 🌍 I speak Russian and English.
+<h1> - 🔭 I’m currently working on web-site and application for students. </h1>
+<h2> - 🌱 I’m currently learning Java. </h2>
+<h3> - 👯 I’m looking with collaboratewith any IT-company. </h3>
+<h4> - 🌍 I speak Russian and English. </h4>
 <!--
 **Loby-Dy/Loby-Dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
