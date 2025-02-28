@@ -8,7 +8,7 @@
     alt="VK"</>
   </a>
   and <a href="https://t.me/+79210328952">
-    <img src="https://img.shields.io/badge/Telegram-#229ED9?style-for-the-badge&logo=Telegram&logoColor=white"
+    <img src="https://img.shields.io/badge/Telegram-white?style-for-the-badge&logo=Telegram&logoColor=blue"
     alt="TG"</>
   </a> for quick personal communication
 </div>
