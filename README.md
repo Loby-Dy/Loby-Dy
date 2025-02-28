@@ -12,9 +12,6 @@
     alt="TG"</>
   </a> for quick personal communication!
 </div>
-<!--
-**Loby-Dy/Loby-Dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Here are some ideas to get you started:
 
 - 🔭 Сейчас я работаю над сайтом и приложением для студентов.
@@ -22,4 +19,8 @@
 - 👯 Ищу сотрудничество с любой IT-компанией.
 - 🌍 Я говорю на русском и английском языках.
 - 📫 Как со мной связаться: проверьте заголовок.
+<!--
+**Loby-Dy/Loby-Dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->
