@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there, I'm Daniel!
+## Aspiring developer and IT specialist from Russia!
 
 <!--
 **Loby-Dy/Loby-Dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
