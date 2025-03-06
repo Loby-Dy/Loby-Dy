@@ -20,7 +20,7 @@
 <h3> - 🌍 I speak Russian and English. </h3> 
 </div>
 <h2> Langueges and tools </h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" title="js" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" title="js" width="50" height="50" />&nbsp;
 <!--
 **Loby-Dy/Loby-Dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
