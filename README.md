@@ -32,11 +32,11 @@
 </div>
 <div>
 <h2> My stat </h2>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?ДаниилЛобынцев=vn7n24fzkq&theme=github_dark)&nbsp;
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?ДаниилЛобынцев=vn7n24fzkq&theme=github_dark)&nbsp;
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?ДаниилЛобынцев=vn7n24fzkq&theme=github_dark)&nbsp;
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?ДаниилЛобынцев=vn7n24fzkq&theme=github_dark)&nbsp;
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?ДаниилЛобынцев=vn7n24fzkq&theme=github_dark&utcOffset=8)&nbsp;
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?Loby-Dy=vn7n24fzkq&theme=github_dark)&nbsp;
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?Loby-Dy=vn7n24fzkq&theme=github_dark)&nbsp;
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?Loby-Dy=vn7n24fzkq&theme=github_dark)&nbsp;
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?Loby-Dy=vn7n24fzkq&theme=github_dark)&nbsp;
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?Loby-Dy=vn7n24fzkq&theme=github_dark&utcOffset=8)&nbsp;
 </div>
 <!--
 **Loby-Dy/Loby-Dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
