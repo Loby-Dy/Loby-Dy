@@ -3,7 +3,7 @@
     <h2>Aspiring developer and IT specialist from Russia! </h2>
 </div>
 <div id="header" align="center">
- <h3> My <a href="Вконтакте-https://vk.com/daan_ballan">
+ <h3> My <a href="-https://vk.com/daan_ballan">
     <img src="https://img.shields.io/badge/Вконтакте-blue?style-for-the-badge&logo=VK&logoColor=white"
     alt="VK"</>
   </a>
