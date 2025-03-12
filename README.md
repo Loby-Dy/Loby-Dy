@@ -4,8 +4,8 @@
 </div>
 <div id="header" align="left">
   <h3>  For quick personal communication! </h3>
-  VK --> https://vk.com/daan_ballan&nbsp;
-  Telegram --> https://t.me/Gunter420&nbsp;
+  VK --> https://vk.com/daan_ballan
+  Telegram --> https://t.me/Gunter420
 </div>
 <div> 
 <h2> About me </h2> 
