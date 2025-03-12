@@ -4,7 +4,7 @@
 </div>
 <div id="header" align="center">
   <h3>  For quick personal communication! </h3>
-  <a href="https://vk/daan_ballan" > &nbsp; </a>
+  <a href="https://vk.com/daan_ballan" > &nbsp; </a>
 </div>
 <div> 
 <h2> About me </h2> 
