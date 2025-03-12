@@ -3,13 +3,13 @@
     <h2>Aspiring developer and IT specialist from Russia! </h2>
 </div>
 <div id="header" align="center">
- <h3> My <a href="vk.com-https://vk.com/daan_ballan">
+ <h3> My <a href="vk-https://vk.com/daan_ballan">
     <img src="https://img.shields.io/badge/Вконтакте-blue?style-for-the-badge&logo=VK&logoColor=white"
-    alt="VK"</>
+    alt="vk"</>
   </a>
   and <a href="telegram-https://t.me/+79210328952">
     <img src="https://img.shields.io/badge/Telegram-white?style-for-the-badge&logo=Telegram&logoColor=blue"
-    alt="TG"</>
+    alt="telegram"</>
   </a> for quick personal communication! </h3>
 </div>
 <div> 
