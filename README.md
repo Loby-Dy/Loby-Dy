@@ -2,9 +2,9 @@
   <h1>Hi there, I'm Daniil! </h1>
     <h2>Aspiring developer and IT specialist from Russia! </h2>
 </div>
-<div id="header" align="center">
+<div id="header" align="left">
   <h3>  For quick personal communication! </h3>
-  <a href="https://vk.com/daan_ballan" > &nbsp; </a>
+   href="https://vk.com/daan_ballan" &nbsp;
 </div>
 <div> 
 <h2> About me </h2> 
