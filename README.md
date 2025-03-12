@@ -4,8 +4,8 @@
 </div>
 <div id="header" align="center">
   <h3>  For quick personal communication! </h3>
-  https://vk/daan_ballan
-  https://t.me/Gunter420
+  https://vk/daan_ballan &nbsp;
+  https://t.me/Gunter420 
 </div>
 <div> 
 <h2> About me </h2> 
