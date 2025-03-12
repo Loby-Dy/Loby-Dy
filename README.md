@@ -4,12 +4,8 @@
 </div>
 <div id="header" align="center">
   <h3>  For quick personal communication! </h3>
-  <a href="vk-https://vk/daan_ballan">
-    <img src="https://img.shields.io/badge/VK-blue?style-for-the-badge&logo=VK&logoColor=white" alt="VK"/>
-  </a>
-  <a href="telegram-https://t.me/Gunter420">
-    <img src="https://img.shields.io/badge/Telegram-white?style-for-the-badge&logo=Telegram&logoColor=blue" alt="Telegram"/>
-  </a>
+  https://vk/daan_ballan
+  https://t.me/Gunter420"
 </div>
 <div> 
 <h2> About me </h2> 
