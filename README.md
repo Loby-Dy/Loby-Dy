@@ -5,7 +5,7 @@
 <div id="header" align="center">
   <h3>  For quick personal communication! </h3>
   <a href="vk-https://vk.com/daan_ballan">
-    <img src="https://img.shields.io/badge/Вконтакте-blue?style-for-the-badge&logo=Вконтакте&logoColor=white" alt="Вконтакте"/>
+    <img src="https://img.shields.io/badge/VK-blue?style-for-the-badge&logo=VK&logoColor=white" alt="VK"/>
   </a>
   <a href="telegram-https://t.me/Gunter420">
     <img src="https://img.shields.io/badge/Telegram-white?style-for-the-badge&logo=Telegram&logoColor=blue" alt="Telegram"/>
